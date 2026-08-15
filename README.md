@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SofieRazou
 - 👀 I’m interested in robotics, quantum computing and space-related automation applications 
-- I’m currently a second year ece student 
+- I’m currently a third year ece student @NTUA
 - I’m looking to collaborate on fun robotics and programming projects that reciprocate to real world innovative applications
 
 
